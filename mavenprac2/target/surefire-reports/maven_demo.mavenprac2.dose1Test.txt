@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: maven_demo.mavenprac2.dose1Test
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.437 s - in maven_demo.mavenprac2.dose1Test
