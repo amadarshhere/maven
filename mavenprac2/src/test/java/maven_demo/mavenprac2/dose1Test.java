@@ -12,6 +12,7 @@ public class dose1Test {
 	public void mollywoodActress()
 	{
 		System.out.println("aishu");
+		System.out.println("moonisra");
 	}
 	@Test
 	public void mollywoodDirector()
