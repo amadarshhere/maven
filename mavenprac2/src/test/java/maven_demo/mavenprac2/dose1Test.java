@@ -17,6 +17,7 @@ public class dose1Test {
 	public void mollywoodDirector()
 	{
 		System.out.println("lijo jose");
+		System.out.println("lpole");
 	}
 
 }

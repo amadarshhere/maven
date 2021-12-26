@@ -8,6 +8,14 @@ public class Dose3Test {
 		System.out.println("shrrok kan");
 
 	}
+	public void updated() {
+		System.out.println("muthapa");
+
+	}
+	public void relocated() {
+		System.out.println("sukran");
+
+	}
 
 	@Test(groups= {"smoke"})
 	public void bollywoodActress()

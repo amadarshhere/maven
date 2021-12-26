@@ -6,6 +6,7 @@ public class Dose2Test {
 	@Test
 	public void hollywoodActor() {
 		System.out.println("jamesbond");
+		System.out.println("jackie");
 	}
 
 	@Test(groups= {"smoke"})
